@@ -3,7 +3,7 @@
 **Data Analyst | SQL | Python | Power BI & Tableau | Advanced Excel | A/B Testing**  
 Delhi, India | [LinkedIn](https://linkedin.com/in/irahul7) | [Email](mailto:rahulofficialworld@gmail.com)
 
-Data Analyst combining economic reasoning (B.A. Economics, University of Delhi) and IT management (MBA IT, Amity University) with AI-driven analytics to deliver experimentation frameworks, supply chain SLA diagnostics, KPI dashboards, and customer risk models.
+Data Analyst pursuing an **MBA in Information Technology (Amity University)** with a **Diploma in Computer Applications (DCA)** and professional credentials from **Google** and **Microsoft**—delivering supply chain SLA diagnostics, experimentation frameworks, KPI dashboards, and customer risk models.
 
 ---
 
